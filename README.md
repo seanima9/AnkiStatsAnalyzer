@@ -23,9 +23,11 @@ Certain cards appear to get 'stuck' at low interval distances, indicating potent
 
 ## Technologies Used
 Python
+Jupyterlab
 Pandas for data manipulation
 SQLite3 for database interaction
 Matplotlib and NumPy for data analysis and visualization
 
 ## How to Run the Project
-Ensure you have Python installed along with Pandas, SQLite3, Matplotlib, and NumPy libraries. Clone this repository and navigate to the project directory. Run the Jupyter Notebooks to see the analysis and visualizations. You will need to replace the db_path variable at the start of the notebook with your own collection.anki2 full file path.
+Ensure you have Python installed along with Pandas, SQLite3, Matplotlib, and NumPy libraries. Clone this repository and navigate to the project directory. Run the Jupyter Notebooks to see the analysis and visualizations. You will need to replace the db_path variable in cell 3 with your own collection.anki2 full file path, typically located in AppData/Roaming/Anki2/User 1/collection.anki2.
+All packages in correct version can be installed using pip install -r requirements.txt. It is recommended to do this in a venv.
