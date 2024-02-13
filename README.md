@@ -1,4 +1,4 @@
-### Anki Spaced Repetition Analysis
+# Anki Spaced Repetition Analysis 🐢
 
 ## Project Overview
 
