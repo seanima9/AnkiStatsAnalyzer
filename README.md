@@ -31,3 +31,7 @@ Matplotlib and NumPy for data analysis and visualization
 ## How to Run the Project
 Ensure you have Python installed along with Pandas, SQLite3, Matplotlib, Pyarrow, and NumPy libraries. Clone this repository and navigate to the project directory. Run the Jupyter Notebooks to see the analysis and visualizations. You will need to replace the db_path variable in cell 3 with your own collection.anki2 full file path, typically located in AppData/Roaming/Anki2/User 1/collection.anki2.
 All packages in correct version can be installed using pip install -r requirements.txt. It is recommended to do this in a venv.
+
+## Documentaion
+For more information on this project and its findings please refer to our documentation: 
+- [Anki.ipynb Documentation](https://planet-perch-311.notion.site/Documentation-for-Anki-Analyzer-2bdf016eef3d441f9345c22a35c3ead3?pvs=4)
